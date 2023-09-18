@@ -1,0 +1,342 @@
+.bg-linhas-2 {
+  position: relative;
+  width: 320px;
+  height: 568px;
+  z-index: 0;
+}
+.iphone-se-4-child {
+  position: relative;
+  border-radius: var(--br-8xs);
+  width: 279px;
+  height: 149px;
+  object-fit: cover;
+  z-index: 1;
+}
+.iphone-se-4-item {
+  position: absolute;
+  margin: 0 !important;
+  top: 46px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 320px;
+  height: 77px;
+  z-index: 2;
+}
+.iphone-se-4-child1,
+.iphone-se-4-child2,
+.iphone-se-4-child3,
+.iphone-se-4-inner {
+  position: absolute;
+  margin: 0 !important;
+  top: 80px;
+  left: 39px;
+  border-radius: 50%;
+  background-color: var(--color-darkblue);
+  width: 23px;
+  height: 23px;
+  z-index: 3;
+}
+.iphone-se-4-child1,
+.iphone-se-4-child2,
+.iphone-se-4-child3 {
+  left: 109px;
+  z-index: 4;
+}
+.iphone-se-4-child2,
+.iphone-se-4-child3 {
+  left: 249px;
+  background-color: var(--color-silver);
+  z-index: 5;
+}
+.iphone-se-4-child3 {
+  left: 179px;
+  z-index: 6;
+}
+.div5,
+.div6,
+.div7,
+.div8 {
+  position: absolute;
+  margin: 0 !important;
+  top: 87px;
+  left: 47px;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 6px;
+  height: 10px;
+  flex-shrink: 0;
+  z-index: 7;
+}
+.div6,
+.div7,
+.div8 {
+  left: 117px;
+  z-index: 8;
+}
+.div7,
+.div8 {
+  left: 187px;
+  z-index: 9;
+}
+.div8 {
+  left: 257px;
+  z-index: 10;
+}
+.iphone-se-4-child4,
+.iphone-se-4-child5,
+.iphone-se-4-child6 {
+  position: absolute;
+  margin: 0 !important;
+  top: 90.5px;
+  left: 61.5px;
+  border-top: 1px solid var(--color-darkblue);
+  box-sizing: border-box;
+  width: 48px;
+  height: 1px;
+  z-index: 11;
+}
+.iphone-se-4-child5,
+.iphone-se-4-child6 {
+  left: 131.5px;
+  z-index: 12;
+}
+.iphone-se-4-child6 {
+  left: 201.5px;
+  border-top: 1px solid var(--color-silver);
+  z-index: 13;
+}
+.iphone-se-4-child7 {
+  top: 123px;
+  left: 0;
+  background-color: var(--color-darkblue);
+  width: 320px;
+  height: 66px;
+  z-index: 14;
+}
+.barra-menu1,
+.icon-eash-carros-11,
+.iphone-se-4-child7 {
+  position: absolute;
+  margin: 0 !important;
+}
+.barra-menu1 {
+  top: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 5px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 320px;
+  height: 61px;
+  z-index: 15;
+}
+.icon-eash-carros-11 {
+  top: 11px;
+  left: 19px;
+  width: 71px;
+  height: 39px;
+  object-fit: cover;
+  z-index: 16;
+}
+.component-1-child1,
+.component-1-child2,
+.component-1-child3 {
+  position: absolute;
+  height: 13.04%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 86.96%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkblue);
+}
+.component-1-child2,
+.component-1-child3 {
+  top: 43.48%;
+  bottom: 43.48%;
+}
+.component-1-child3 {
+  top: 86.96%;
+  bottom: 0;
+}
+.component-11 {
+  position: absolute;
+  margin: 0 !important;
+  top: 22px;
+  left: 272px;
+  width: 29px;
+  height: 17px;
+  z-index: 17;
+}
+.agencia-aeroporto-congonhas-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.agencia-aeroporto-congonhas-container2 {
+  position: absolute;
+  margin: 0 !important;
+  top: 138px;
+  left: 19px;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 290px;
+  height: 32px;
+  flex-shrink: 0;
+  z-index: 18;
+}
+.iphone-se-4-child8 {
+  position: absolute;
+  margin: 0 !important;
+  top: 233.5px;
+  left: 18.5px;
+  border-radius: var(--br-8xs);
+  width: 280px;
+  height: 150px;
+  object-fit: cover;
+  opacity: 0.8;
+  z-index: 19;
+}
+.praia {
+  color: var(--color-turquoise);
+}
+.cadeiras,
+.praia {
+  margin: 0;
+}
+.praia-jeep-renegade-container {
+  position: absolute;
+  margin: 0 !important;
+  top: 244px;
+  left: 34px;
+  display: inline-block;
+  width: 259px;
+  height: 70px;
+  flex-shrink: 0;
+  z-index: 20;
+}
+.r1 {
+  font-size: var(--font-size-sm);
+}
+.span2 {
+  font-size: var(--font-size-xs);
+}
+.span3 {
+  font-size: var(--font-size-lg);
+}
+.dia {
+  font-family: var(--font-ubuntu);
+  color: var(--color-gray-100);
+}
+.r-11990-dia {
+  margin: 0;
+  color: var(--color-darkblue);
+}
+.a-partir-de-container {
+  position: absolute;
+  margin: 0 !important;
+  top: 331px;
+  left: 34px;
+  display: flex;
+  align-items: center;
+  width: 259px;
+  height: 41px;
+  flex-shrink: 0;
+  z-index: 21;
+}
+.iphone-se-4-child9 {
+  position: absolute;
+  margin: 0 !important;
+  top: 391.5px;
+  left: 18.5px;
+  border-radius: var(--br-8xs);
+  width: 280px;
+  height: 150px;
+  object-fit: cover;
+  z-index: 22;
+}
+.a-partir-de-container2,
+.piquenique-mini-cooper-container {
+  position: absolute;
+  margin: 0 !important;
+  left: 34px;
+  width: 259px;
+  flex-shrink: 0;
+}
+.piquenique-mini-cooper-container {
+  top: 402px;
+  display: inline-block;
+  height: 78px;
+  z-index: 23;
+}
+.a-partir-de-container2 {
+  top: 489px;
+  display: flex;
+  align-items: center;
+  height: 41px;
+  z-index: 24;
+}
+.iphone-se-4-child10 {
+  position: absolute;
+  margin: 0 !important;
+  top: 549.5px;
+  left: 18.5px;
+  border-radius: var(--br-8xs);
+  width: 280px;
+  height: 150px;
+  object-fit: cover;
+  z-index: 25;
+}
+.acampamento-jeep-wrangler-container {
+  position: absolute;
+  margin: 0 !important;
+  top: 560px;
+  left: 34px;
+  display: inline-block;
+  width: 259px;
+  height: 82px;
+  flex-shrink: 0;
+  z-index: 26;
+}
+.a-partir-de-container4,
+.selecione-sua-experincia {
+  position: absolute;
+  margin: 0 !important;
+  top: 647px;
+  left: 34px;
+  display: flex;
+  align-items: center;
+  width: 259px;
+  height: 41px;
+  flex-shrink: 0;
+  z-index: 27;
+}
+.selecione-sua-experincia {
+  top: 195px;
+  left: 27px;
+  font-size: 17px;
+  color: var(--color-darkblue);
+  width: 290px;
+  height: 32px;
+  z-index: 28;
+}
+.iphone-se-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1146px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+  font-family: var(--font-ubuntu);
+}

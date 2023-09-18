@@ -1,0 +1,441 @@
+.iphone-se-5-child {
+  position: absolute;
+  top: 46px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 320px;
+  height: 77px;
+}
+.iphone-se-5-inner,
+.iphone-se-5-item {
+  position: absolute;
+  top: 80px;
+  left: 39px;
+  border-radius: 50%;
+  background-color: var(--color-darkblue);
+  width: 23px;
+  height: 23px;
+}
+.iphone-se-5-inner {
+  left: 109px;
+}
+.div {
+  position: absolute;
+  top: 87px;
+  left: 47px;
+  display: flex;
+  align-items: center;
+  width: 6px;
+  height: 10px;
+}
+.ellipse-div,
+.iphone-se-5-child1 {
+  position: absolute;
+  top: 80px;
+  left: 249px;
+  border-radius: 50%;
+  background-color: var(--color-silver);
+  width: 23px;
+  height: 23px;
+}
+.iphone-se-5-child1 {
+  left: 179px;
+  background-color: var(--color-darkblue);
+}
+.div2,
+.div3,
+.div4 {
+  position: absolute;
+  top: 87px;
+  align-items: center;
+  width: 6px;
+  height: 10px;
+}
+.div2 {
+  left: 117px;
+  display: none;
+}
+.div3,
+.div4 {
+  left: 187px;
+  display: flex;
+}
+.div4 {
+  left: 257px;
+}
+.iphone-se-5-child2,
+.iphone-se-5-child3,
+.line-div {
+  position: absolute;
+  top: 90.5px;
+  left: 61.5px;
+  border-top: 1px solid var(--color-darkblue);
+  box-sizing: border-box;
+  width: 48px;
+  height: 1px;
+}
+.iphone-se-5-child2,
+.iphone-se-5-child3 {
+  left: 131.5px;
+}
+.iphone-se-5-child3 {
+  left: 201.5px;
+}
+.barra-menu,
+.rectangle-div {
+  position: absolute;
+  top: 123px;
+  left: 0;
+  background-color: var(--color-darkblue);
+  width: 320px;
+  height: 66px;
+}
+.barra-menu {
+  top: 0;
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 5px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  height: 61px;
+}
+.icon-eash-carros-1 {
+  position: absolute;
+  top: 11px;
+  left: 19px;
+  width: 71px;
+  height: 39px;
+  object-fit: cover;
+}
+.component-1-child,
+.component-1-inner,
+.component-1-item {
+  position: absolute;
+  height: 13.04%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 86.96%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkblue);
+}
+.component-1-inner,
+.component-1-item {
+  top: 43.48%;
+  bottom: 43.48%;
+}
+.component-1-inner {
+  top: 86.96%;
+  bottom: 0;
+}
+.component-1 {
+  position: absolute;
+  top: 22px;
+  left: 272px;
+  width: 29px;
+  height: 17px;
+}
+.agencia-aeroporto-congonhas {
+  margin: 0;
+}
+.agencia-aeroporto-congonhas-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.agencia-aeroporto-congonhas-container {
+  position: absolute;
+  top: 138px;
+  left: 19px;
+  font-size: var(--font-size-smi);
+  display: flex;
+  align-items: center;
+  width: 290px;
+  height: 32px;
+}
+.jeep-renegade-13 {
+  position: absolute;
+  top: 222px;
+  left: 20px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  width: 259px;
+  height: 13px;
+}
+.lembre-se {
+  font-family: var(--font-ubuntu);
+}
+.lembre-se-sua-reserva-container {
+  position: absolute;
+  top: 344px;
+  left: 20px;
+  font-size: 10px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  width: 259px;
+  height: 41px;
+}
+.experincia-praia,
+.protees-e-adicionais {
+  position: absolute;
+  top: 399px;
+  left: 19px;
+  display: flex;
+  color: var(--color-darkblue);
+  align-items: center;
+  width: 259px;
+  height: 16px;
+}
+.experincia-praia {
+  top: 194px;
+  left: 20px;
+  font-size: var(--font-size-lg);
+  width: 280px;
+  height: 32px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 235px;
+  left: 71px;
+  width: 172px;
+  height: 119px;
+  object-fit: cover;
+}
+.iphone-se-5-child4 {
+  position: absolute;
+  top: 389.5px;
+  left: 19.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 279px;
+  height: 1px;
+}
+.icon-tick-circle {
+  position: absolute;
+  height: 47.83%;
+  width: 7.89%;
+  top: 26.09%;
+  right: 5.73%;
+  bottom: 26.09%;
+  left: 86.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.r2990 {
+  margin: 0;
+  color: var(--color-gray-100);
+}
+.proteo-do-carro-container {
+  position: absolute;
+  height: 60.87%;
+  width: 64.16%;
+  top: 19.57%;
+  left: 15.77%;
+  display: flex;
+  align-items: center;
+}
+.component-3-child {
+  position: absolute;
+  height: 102.17%;
+  width: 100.36%;
+  top: -1.09%;
+  right: -0.18%;
+  bottom: -1.09%;
+  left: -0.18%;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.icon-security-user {
+  position: absolute;
+  height: 47.51%;
+  width: 6.81%;
+  top: 26.09%;
+  right: 88.17%;
+  bottom: 26.4%;
+  left: 5.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-3,
+.proteo-car {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 279px;
+  height: 46px;
+}
+.proteo-car {
+  top: 424px;
+  left: 19px;
+  color: var(--color-turquoise);
+}
+.icon-security-user1,
+.icon-tick-circle1 {
+  position: absolute;
+  height: 47.83%;
+  width: 7.89%;
+  top: 26.09%;
+  right: 5.73%;
+  bottom: 26.09%;
+  left: 86.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.icon-security-user1 {
+  height: 47.51%;
+  width: 6.81%;
+  right: 88.17%;
+  bottom: 26.4%;
+  left: 5.02%;
+}
+.solaruser-outline-icon {
+  position: absolute;
+  top: 11px;
+  left: 11px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.proteo-car-child {
+  position: absolute;
+  height: 47.83%;
+  width: 7.89%;
+  top: 26.09%;
+  right: 5.38%;
+  bottom: 26.09%;
+  left: 86.74%;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-turquoise);
+  box-sizing: border-box;
+}
+.proteo-car1 {
+  position: absolute;
+  top: 589px;
+  left: 20px;
+  width: 279px;
+  height: 46px;
+  color: var(--color-turquoise);
+}
+.icon-car,
+.icon-security-user2 {
+  position: absolute;
+  top: 26.09%;
+  left: 5.02%;
+  width: 0;
+  height: 0;
+}
+.icon-car {
+  height: 44.57%;
+  width: 7.64%;
+  top: 26.63%;
+  right: 87.25%;
+  bottom: 28.8%;
+  left: 5.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.proteo-car2,
+.proteo-car3 {
+  position: absolute;
+  top: 479px;
+  left: 20px;
+  width: 279px;
+  height: 46px;
+  color: var(--color-turquoise);
+}
+.proteo-car3 {
+  top: 534px;
+  left: 19px;
+}
+.icon-trash {
+  position: absolute;
+  top: 546.25px;
+  left: 34.25px;
+  width: 18.6px;
+  height: 20.5px;
+}
+.component-2-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 25px;
+  background-color: var(--color-turquoise);
+}
+.quero-saber-mais {
+  position: absolute;
+  height: 42.55%;
+  width: 62.95%;
+  top: 29.79%;
+  left: 18.3%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-2 {
+  position: absolute;
+  top: 719px;
+  left: 48px;
+  width: 224px;
+  height: 47px;
+  text-align: center;
+  font-size: 15px;
+}
+.r {
+  font-size: var(--font-size-sm);
+}
+.span {
+  font-size: var(--font-size-xs);
+}
+.span1 {
+  font-size: var(--font-size-lg);
+}
+.r-14980-at-container {
+  position: absolute;
+  top: 649px;
+  left: 146px;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 138px;
+  height: 41px;
+  color: var(--color-gray-100);
+}
+.detalhes-do-valor {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkblue);
+}
+.detalhes-do-valor-container {
+  position: absolute;
+  top: 651px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  width: 138px;
+  height: 41px;
+  color: var(--color-gray-100);
+}
+.iphone-se-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 790px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-ubuntu);
+}
